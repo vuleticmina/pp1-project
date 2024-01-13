@@ -1,0 +1,25 @@
+INFO  18:52:58,205 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  18:52:58,224 - #2 program
+INFO  18:52:58,225 - #46 MJProgram
+INFO  18:52:58,225 - #17 namespace
+INFO  18:52:58,225 - #46 ns
+INFO  18:52:58,225 - #25 {
+INFO  18:52:58,225 - #25 {
+INFO  18:52:58,225 - #26 }
+INFO  18:52:58,226 - #26 }
+INFO  18:52:58,226 - #9 const
+INFO  18:52:58,226 - #46 int
+INFO  18:52:58,227 - #46 x
+INFO  18:52:58,227 - #20 =
+INFO  18:52:58,227 - #45 5
+INFO  18:52:58,227 - #22 ,
+INFO  18:52:58,228 - #46 y
+INFO  18:52:58,228 - #20 =
+INFO  18:52:58,228 - #45 8
+INFO  18:52:58,228 - #21 ;
+INFO  18:52:58,228 - #9 const
+INFO  18:52:58,228 - #46 char
+INFO  18:52:58,228 - #46 c
+INFO  18:52:58,229 - #20 =
+INFO  18:52:58,229 - #47 f
+INFO  18:52:58,229 - #21 ;

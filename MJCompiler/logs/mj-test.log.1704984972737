@@ -1,0 +1,43 @@
+INFO  15:54:47,982 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic.mj
+INFO  15:54:48,012 - #2 program
+INFO  15:54:48,013 - #46 Test
+INFO  15:54:48,013 - #9 const
+INFO  15:54:48,013 - #46 int
+INFO  15:54:48,013 - #46 x
+INFO  15:54:48,014 - #20 =
+INFO  15:54:48,014 - #47 a
+INFO  15:54:48,014 - #21 ;
+INFO  15:54:48,014 - #25 {
+INFO  15:54:48,015 - #26 }
+INFO  15:54:48,016 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declaration(
+      ConstDeclarationList(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            ConstCharDeclaration(
+             x
+             a
+            ) [ConstCharDeclaration]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclarationList]
+    ) [Declaration]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+ERROR 15:54:48,023 - Nepoklapanje tipova prilikom deklarisanja konstante: x
+INFO  15:54:48,023 - Print calls = 0
+INFO  15:54:48,025 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  15:54:48,025 - Parsiranje uspesno zavrseno!

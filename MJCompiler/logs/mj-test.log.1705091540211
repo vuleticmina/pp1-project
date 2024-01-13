@@ -1,0 +1,35 @@
+INFO  21:31:31,926 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic3.mj
+INFO  21:31:31,959 - #2 program
+INFO  21:31:31,959 - #46 Test
+INFO  21:31:31,959 - #17 namespace
+INFO  21:31:31,960 - #46 N1
+INFO  21:31:31,960 - #25 {
+INFO  21:31:31,960 - #46 int
+INFO  21:31:31,960 - #46 x
+INFO  21:31:31,960 - #21 ;
+INFO  21:31:31,961 - #9 const
+INFO  21:31:31,961 - #46 int
+INFO  21:31:31,961 - #46 g
+INFO  21:31:31,962 - #20 =
+INFO  21:31:31,962 - #45 5
+INFO  21:31:31,962 - #21 ;
+INFO  21:31:31,962 - #25 {
+INFO  21:31:31,962 - #26 }
+INFO  21:31:31,963 - #26 }
+INFO  21:31:31,963 - #9 const
+INFO  21:31:31,963 - #46 int
+INFO  21:31:31,963 - #46 x
+INFO  21:31:31,964 - #20 =
+INFO  21:31:31,964 - #45 23
+INFO  21:31:31,964 - #21 ;
+INFO  21:31:31,964 - #46 int
+INFO  21:31:31,964 - #46 b
+INFO  21:31:31,964 - #42 [
+INFO  21:31:31,964 - #43 ]
+INFO  21:31:31,964 - #21 ;
+INFO  21:31:31,964 - #7 class
+INFO  21:31:31,964 - #46 Klasa
+INFO  21:31:31,965 - #46 int
+ERROR 21:31:31,965 - 
+Sintaksna greska na liniji 9
+ERROR 21:31:31,965 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

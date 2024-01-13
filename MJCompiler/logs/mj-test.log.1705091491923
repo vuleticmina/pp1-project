@@ -1,0 +1,285 @@
+INFO  21:30:45,258 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic3.mj
+INFO  21:30:45,290 - #2 program
+INFO  21:30:45,290 - #46 Test
+INFO  21:30:45,290 - #17 namespace
+INFO  21:30:45,290 - #46 N1
+INFO  21:30:45,290 - #25 {
+INFO  21:30:45,291 - #46 int
+INFO  21:30:45,291 - #46 x
+INFO  21:30:45,291 - #21 ;
+INFO  21:30:45,292 - #9 const
+INFO  21:30:45,292 - #46 int
+INFO  21:30:45,292 - #46 g
+INFO  21:30:45,292 - #20 =
+INFO  21:30:45,292 - #45 5
+INFO  21:30:45,292 - #21 ;
+INFO  21:30:45,293 - #25 {
+INFO  21:30:45,293 - #26 }
+INFO  21:30:45,293 - #26 }
+INFO  21:30:45,293 - #9 const
+INFO  21:30:45,294 - #46 int
+INFO  21:30:45,294 - #46 x
+INFO  21:30:45,294 - #20 =
+INFO  21:30:45,294 - #45 23
+INFO  21:30:45,294 - #21 ;
+INFO  21:30:45,294 - #46 int
+INFO  21:30:45,294 - #46 b
+INFO  21:30:45,294 - #42 [
+INFO  21:30:45,294 - #43 ]
+INFO  21:30:45,294 - #21 ;
+INFO  21:30:45,294 - #7 class
+INFO  21:30:45,294 - #46 Klasa
+INFO  21:30:45,294 - #25 {
+INFO  21:30:45,295 - #26 }
+INFO  21:30:45,296 - #25 {
+INFO  21:30:45,297 - #46 int
+INFO  21:30:45,297 - #46 fja
+INFO  21:30:45,297 - #23 (
+INFO  21:30:45,297 - #46 int
+INFO  21:30:45,297 - #46 y
+INFO  21:30:45,297 - #24 )
+INFO  21:30:45,297 - #46 int
+INFO  21:30:45,297 - #46 x
+INFO  21:30:45,297 - #21 ;
+INFO  21:30:45,297 - #25 {
+INFO  21:30:45,298 - #46 N1
+INFO  21:30:45,298 - #40 :
+INFO  21:30:45,298 - #40 :
+INFO  21:30:45,298 - #46 x
+INFO  21:30:45,298 - #20 =
+INFO  21:30:45,298 - #45 5
+INFO  21:30:45,299 - #21 ;
+INFO  21:30:45,299 - #46 x
+INFO  21:30:45,299 - #20 =
+INFO  21:30:45,300 - #45 3
+INFO  21:30:45,300 - #21 ;
+INFO  21:30:45,300 - #26 }
+INFO  21:30:45,300 - #5 void
+INFO  21:30:45,300 - #46 main
+INFO  21:30:45,300 - #23 (
+INFO  21:30:45,300 - #24 )
+INFO  21:30:45,301 - #46 int
+INFO  21:30:45,301 - #46 x
+INFO  21:30:45,301 - #21 ;
+INFO  21:30:45,301 - #25 {
+INFO  21:30:45,301 - #26 }
+INFO  21:30:45,301 - #26 }
+INFO  21:30:45,302 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NamespaceListExists(
+    NoNamespace(
+    ) [NoNamespace]
+    Namespace(
+      NamespaceName(
+       N1
+      ) [NamespaceName]
+      FulDeclarationList(
+        Declarations(
+          Declaration(
+            VarDeclarationList(
+              VarDeclarationsList(
+                FirstVarDeclaration(
+                  VarType(
+                    BasicType(
+                     int
+                    ) [BasicType]
+                  ) [VarType]
+                  VarDeclaration(
+                   x
+                  ) [VarDeclaration]
+                ) [FirstVarDeclaration]
+              ) [VarDeclarationsList]
+            ) [VarDeclarationList]
+          ) [Declaration]
+          ConstDeclarationList(
+            ConstDeclarationsList(
+              FirstConstDeclaration(
+                ConstType(
+                  BasicType(
+                   int
+                  ) [BasicType]
+                ) [ConstType]
+                ConstNumDeclaration(
+                 g
+                 5
+                ) [ConstNumDeclaration]
+              ) [FirstConstDeclaration]
+            ) [ConstDeclarationsList]
+          ) [ConstDeclarationList]
+        ) [Declarations]
+      ) [FulDeclarationList]
+      NoMethodDeclList(
+      ) [NoMethodDeclList]
+    ) [Namespace]
+  ) [NamespaceListExists]
+  FulDeclarationList(
+    Declarations(
+      Declarations(
+        Declaration(
+          ConstDeclarationList(
+            ConstDeclarationsList(
+              FirstConstDeclaration(
+                ConstType(
+                  BasicType(
+                   int
+                  ) [BasicType]
+                ) [ConstType]
+                ConstNumDeclaration(
+                 x
+                 23
+                ) [ConstNumDeclaration]
+              ) [FirstConstDeclaration]
+            ) [ConstDeclarationsList]
+          ) [ConstDeclarationList]
+        ) [Declaration]
+        VarDeclarationList(
+          VarDeclarationsList(
+            FirstVarDeclaration(
+              VarType(
+                BasicType(
+                 int
+                ) [BasicType]
+              ) [VarType]
+              VarDeclarationArr(
+               b
+              ) [VarDeclarationArr]
+            ) [FirstVarDeclaration]
+          ) [VarDeclarationsList]
+        ) [VarDeclarationList]
+      ) [Declarations]
+      ClassDeclarationList(
+        ClassDeclList(
+          ClassName(
+           Klasa
+          ) [ClassName]
+          NoExtend(
+          ) [NoExtend]
+          NoStaticVarDeclList(
+          ) [NoStaticVarDeclList]
+          NoStaticInitializerList(
+          ) [NoStaticInitializerList]
+          NoClassVarDeclList(
+          ) [NoClassVarDeclList]
+          NoClassMethodDeclList(
+          ) [NoClassMethodDeclList]
+        ) [ClassDeclList]
+      ) [ClassDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  MethodDeclarationsList(
+    MethodDeclarationsList(
+      NoMethodDeclList(
+      ) [NoMethodDeclList]
+      MethodDecl(
+        MethodType(
+          BasicType(
+           int
+          ) [BasicType]
+         fja
+        ) [MethodType]
+        FirstFormPar(
+          FormParameter(
+            BasicType(
+             int
+            ) [BasicType]
+           y
+          ) [FormParameter]
+        ) [FirstFormPar]
+        ClassVarDeclarations(
+          NoClassVarDeclList(
+          ) [NoClassVarDeclList]
+          VarDeclarationsList(
+            FirstVarDeclaration(
+              VarType(
+                BasicType(
+                 int
+                ) [BasicType]
+              ) [VarType]
+              VarDeclaration(
+               x
+              ) [VarDeclaration]
+            ) [FirstVarDeclaration]
+          ) [VarDeclarationsList]
+        ) [ClassVarDeclarations]
+        Statements(
+          Statements(
+            NoStatementList(
+            ) [NoStatementList]
+            MatchedStmt(
+              StatementDesignatorStatement(
+                DesignatorStatementDesignator(
+                  DesignatorNamespaceName(
+                   N1
+                   x
+                  ) [DesignatorNamespaceName]
+                  Assignop(
+                  ) [Assignop]
+                  ExprFirstTerm(
+                    TermFactor(
+                      FactorConst(
+                        NumConst(
+                         5
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [TermFactor]
+                  ) [ExprFirstTerm]
+                ) [DesignatorStatementDesignator]
+              ) [StatementDesignatorStatement]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            StatementDesignatorStatement(
+              DesignatorStatementDesignator(
+                DesignatorBasicName(
+                 x
+                ) [DesignatorBasicName]
+                Assignop(
+                ) [Assignop]
+                ExprFirstTerm(
+                  TermFactor(
+                    FactorConst(
+                      NumConst(
+                       3
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermFactor]
+                ) [ExprFirstTerm]
+              ) [DesignatorStatementDesignator]
+            ) [StatementDesignatorStatement]
+          ) [MatchedStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarationsList]
+    MethodDecl(
+      VoidMethodType(
+       main
+      ) [VoidMethodType]
+      NoFormPars(
+      ) [NoFormPars]
+      ClassVarDeclarations(
+        NoClassVarDeclList(
+        ) [NoClassVarDeclList]
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              BasicType(
+               int
+              ) [BasicType]
+            ) [VarType]
+            VarDeclaration(
+             x
+            ) [VarDeclaration]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [ClassVarDeclarations]
+      NoStatementList(
+      ) [NoStatementList]
+    ) [MethodDecl]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  21:30:45,310 - Pronadjen simbol: N1::x na liniji 12. Var N1::x: int, 0, 0 
+INFO  21:30:45,310 - Pronadjen simbol: x na liniji 13. Var x: int, 1, 1 
+INFO  21:30:45,310 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  21:30:45,310 - Parsiranje uspesno zavrseno!

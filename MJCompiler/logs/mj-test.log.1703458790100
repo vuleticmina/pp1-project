@@ -1,0 +1,8 @@
+INFO  23:55:54,028 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  23:55:54,047 - #2 program
+INFO  23:55:54,047 - #46 MJProgram
+INFO  23:55:54,047 - #25 {
+INFO  23:55:54,048 - #26 }
+INFO  23:55:54,056 - Print calls = 0
+INFO  23:55:54,057 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  23:55:54,059 - Parsiranje uspesno zavrseno!

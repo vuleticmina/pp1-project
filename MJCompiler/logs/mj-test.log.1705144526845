@@ -1,0 +1,548 @@
+INFO  12:14:43,802 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic3.mj
+INFO  12:14:43,843 - #2 program
+INFO  12:14:43,843 - #46 Test
+INFO  12:14:43,843 - #17 namespace
+INFO  12:14:43,844 - #46 N1
+INFO  12:14:43,844 - #25 {
+INFO  12:14:43,844 - #46 int
+INFO  12:14:43,844 - #46 x
+INFO  12:14:43,845 - #21 ;
+INFO  12:14:43,845 - #9 const
+INFO  12:14:43,845 - #46 int
+INFO  12:14:43,845 - #46 g
+INFO  12:14:43,846 - #20 =
+INFO  12:14:43,846 - #45 5
+INFO  12:14:43,846 - #21 ;
+INFO  12:14:43,846 - #7 class
+INFO  12:14:43,846 - #46 Klasa
+INFO  12:14:43,846 - #25 {
+INFO  12:14:43,847 - #16 static
+INFO  12:14:43,847 - #46 int
+INFO  12:14:43,847 - #46 b
+INFO  12:14:43,848 - #21 ;
+INFO  12:14:43,848 - #46 int
+INFO  12:14:43,849 - #46 k
+INFO  12:14:43,849 - #21 ;
+INFO  12:14:43,849 - #46 int
+INFO  12:14:43,849 - #46 kk
+INFO  12:14:43,849 - #21 ;
+INFO  12:14:43,849 - #25 {
+INFO  12:14:43,849 - #46 int
+INFO  12:14:43,849 - #46 funkcijaKlase
+INFO  12:14:43,850 - #23 (
+INFO  12:14:43,850 - #24 )
+INFO  12:14:43,850 - #25 {
+INFO  12:14:43,850 - #26 }
+INFO  12:14:43,850 - #26 }
+INFO  12:14:43,851 - #26 }
+INFO  12:14:43,851 - #7 class
+INFO  12:14:43,852 - #46 DeteKlasa
+INFO  12:14:43,852 - #13 extends
+INFO  12:14:43,852 - #46 Klasa
+INFO  12:14:43,852 - #25 {
+INFO  12:14:43,852 - #26 }
+INFO  12:14:43,853 - #25 {
+INFO  12:14:43,853 - #26 }
+INFO  12:14:43,853 - #26 }
+INFO  12:14:43,853 - #9 const
+INFO  12:14:43,853 - #46 int
+INFO  12:14:43,854 - #46 x
+INFO  12:14:43,854 - #20 =
+INFO  12:14:43,854 - #45 23
+INFO  12:14:43,854 - #21 ;
+INFO  12:14:43,854 - #46 int
+INFO  12:14:43,854 - #46 b
+INFO  12:14:43,854 - #42 [
+INFO  12:14:43,854 - #43 ]
+INFO  12:14:43,854 - #21 ;
+INFO  12:14:43,854 - #7 class
+INFO  12:14:43,854 - #46 Klasa
+INFO  12:14:43,854 - #25 {
+INFO  12:14:43,854 - #16 static
+INFO  12:14:43,854 - #46 int
+INFO  12:14:43,854 - #46 k
+INFO  12:14:43,854 - #21 ;
+INFO  12:14:43,855 - #46 int
+INFO  12:14:43,855 - #46 kk
+INFO  12:14:43,855 - #21 ;
+INFO  12:14:43,855 - #25 {
+INFO  12:14:43,855 - #46 int
+INFO  12:14:43,855 - #46 funkcijaKlase
+INFO  12:14:43,855 - #23 (
+INFO  12:14:43,855 - #24 )
+INFO  12:14:43,855 - #25 {
+INFO  12:14:43,855 - #26 }
+INFO  12:14:43,855 - #26 }
+INFO  12:14:43,855 - #26 }
+INFO  12:14:43,855 - #7 class
+INFO  12:14:43,855 - #46 DeteKlasa
+INFO  12:14:43,855 - #13 extends
+INFO  12:14:43,855 - #46 N1
+INFO  12:14:43,855 - #40 :
+INFO  12:14:43,855 - #40 :
+INFO  12:14:43,855 - #46 Klasa
+INFO  12:14:43,855 - #25 {
+INFO  12:14:43,855 - #26 }
+INFO  12:14:43,856 - #25 {
+INFO  12:14:43,856 - #46 int
+INFO  12:14:43,856 - #46 fja
+INFO  12:14:43,856 - #23 (
+INFO  12:14:43,856 - #46 int
+INFO  12:14:43,856 - #46 y
+INFO  12:14:43,856 - #24 )
+INFO  12:14:43,856 - #46 int
+INFO  12:14:43,856 - #46 x
+INFO  12:14:43,856 - #21 ;
+INFO  12:14:43,856 - #25 {
+INFO  12:14:43,856 - #46 N1
+INFO  12:14:43,856 - #40 :
+INFO  12:14:43,856 - #40 :
+INFO  12:14:43,856 - #46 x
+INFO  12:14:43,856 - #20 =
+INFO  12:14:43,857 - #45 5
+INFO  12:14:43,857 - #21 ;
+INFO  12:14:43,857 - #46 x
+INFO  12:14:43,858 - #20 =
+INFO  12:14:43,858 - #45 3
+INFO  12:14:43,858 - #21 ;
+INFO  12:14:43,858 - #26 }
+INFO  12:14:43,858 - #5 void
+INFO  12:14:43,858 - #46 main
+INFO  12:14:43,858 - #23 (
+INFO  12:14:43,858 - #24 )
+INFO  12:14:43,858 - #46 int
+INFO  12:14:43,858 - #46 x
+INFO  12:14:43,858 - #21 ;
+INFO  12:14:43,858 - #46 Klasa
+INFO  12:14:43,858 - #46 objekatKlase
+INFO  12:14:43,858 - #21 ;
+INFO  12:14:43,858 - #25 {
+INFO  12:14:43,858 - #46 objekatKlase
+INFO  12:14:43,858 - #41 .
+INFO  12:14:43,858 - #46 funkcijaKlase
+INFO  12:14:43,859 - #23 (
+INFO  12:14:43,859 - #24 )
+INFO  12:14:43,859 - #21 ;
+INFO  12:14:43,859 - #26 }
+INFO  12:14:43,859 - #26 }
+INFO  12:14:43,861 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NamespaceListExists(
+    NoNamespace(
+    ) [NoNamespace]
+    Namespace(
+      NamespaceName(
+       N1
+      ) [NamespaceName]
+      FulDeclarationList(
+        Declarations(
+          Declarations(
+            Declarations(
+              Declaration(
+                VarDeclarationList(
+                  VarDeclarationsList(
+                    FirstVarDeclaration(
+                      VarType(
+                        BasicType(
+                         int
+                        ) [BasicType]
+                      ) [VarType]
+                      VarDeclaration(
+                       x
+                      ) [VarDeclaration]
+                    ) [FirstVarDeclaration]
+                  ) [VarDeclarationsList]
+                ) [VarDeclarationList]
+              ) [Declaration]
+              ConstDeclarationList(
+                ConstDeclarationsList(
+                  FirstConstDeclaration(
+                    ConstType(
+                      BasicType(
+                       int
+                      ) [BasicType]
+                    ) [ConstType]
+                    ConstNumDeclaration(
+                     g
+                     5
+                    ) [ConstNumDeclaration]
+                  ) [FirstConstDeclaration]
+                ) [ConstDeclarationsList]
+              ) [ConstDeclarationList]
+            ) [Declarations]
+            ClassDeclarationList(
+              ClassDeclList(
+                ClassName(
+                 Klasa
+                ) [ClassName]
+                NoExtend(
+                ) [NoExtend]
+                StaticVarDeclartions(
+                  NoStaticVarDeclList(
+                  ) [NoStaticVarDeclList]
+                  StaticVarDecl(
+                    Static(
+                    ) [Static]
+                    VarDeclarationsList(
+                      FirstVarDeclaration(
+                        VarType(
+                          BasicType(
+                           int
+                          ) [BasicType]
+                        ) [VarType]
+                        VarDeclaration(
+                         b
+                        ) [VarDeclaration]
+                      ) [FirstVarDeclaration]
+                    ) [VarDeclarationsList]
+                  ) [StaticVarDecl]
+                ) [StaticVarDeclartions]
+                NoStaticInitializerList(
+                ) [NoStaticInitializerList]
+                ClassVarDeclarations(
+                  ClassVarDeclarations(
+                    NoClassVarDeclList(
+                    ) [NoClassVarDeclList]
+                    VarDeclarationsList(
+                      FirstVarDeclaration(
+                        VarType(
+                          BasicType(
+                           int
+                          ) [BasicType]
+                        ) [VarType]
+                        VarDeclaration(
+                         k
+                        ) [VarDeclaration]
+                      ) [FirstVarDeclaration]
+                    ) [VarDeclarationsList]
+                  ) [ClassVarDeclarations]
+                  VarDeclarationsList(
+                    FirstVarDeclaration(
+                      VarType(
+                        BasicType(
+                         int
+                        ) [BasicType]
+                      ) [VarType]
+                      VarDeclaration(
+                       kk
+                      ) [VarDeclaration]
+                    ) [FirstVarDeclaration]
+                  ) [VarDeclarationsList]
+                ) [ClassVarDeclarations]
+                ClassMethodDeclarations(
+                  MethodDeclarationsList(
+                    NoMethodDeclList(
+                    ) [NoMethodDeclList]
+                    MethodDecl(
+                      MethodType(
+                        BasicType(
+                         int
+                        ) [BasicType]
+                       funkcijaKlase
+                      ) [MethodType]
+                      NoFormPars(
+                      ) [NoFormPars]
+                      NoClassVarDeclList(
+                      ) [NoClassVarDeclList]
+                      NoStatementList(
+                      ) [NoStatementList]
+                    ) [MethodDecl]
+                  ) [MethodDeclarationsList]
+                ) [ClassMethodDeclarations]
+              ) [ClassDeclList]
+            ) [ClassDeclarationList]
+          ) [Declarations]
+          ClassDeclarationList(
+            ClassDeclList(
+              ClassName(
+               DeteKlasa
+              ) [ClassName]
+              ExtendType(
+                BasicType(
+                 Klasa
+                ) [BasicType]
+              ) [ExtendType]
+              NoStaticVarDeclList(
+              ) [NoStaticVarDeclList]
+              NoStaticInitializerList(
+              ) [NoStaticInitializerList]
+              NoClassVarDeclList(
+              ) [NoClassVarDeclList]
+              NoClassMethodDeclList(
+              ) [NoClassMethodDeclList]
+            ) [ClassDeclList]
+          ) [ClassDeclarationList]
+        ) [Declarations]
+      ) [FulDeclarationList]
+      NoMethodDeclList(
+      ) [NoMethodDeclList]
+    ) [Namespace]
+  ) [NamespaceListExists]
+  FulDeclarationList(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declaration(
+            ConstDeclarationList(
+              ConstDeclarationsList(
+                FirstConstDeclaration(
+                  ConstType(
+                    BasicType(
+                     int
+                    ) [BasicType]
+                  ) [ConstType]
+                  ConstNumDeclaration(
+                   x
+                   23
+                  ) [ConstNumDeclaration]
+                ) [FirstConstDeclaration]
+              ) [ConstDeclarationsList]
+            ) [ConstDeclarationList]
+          ) [Declaration]
+          VarDeclarationList(
+            VarDeclarationsList(
+              FirstVarDeclaration(
+                VarType(
+                  BasicType(
+                   int
+                  ) [BasicType]
+                ) [VarType]
+                VarDeclarationArr(
+                 b
+                ) [VarDeclarationArr]
+              ) [FirstVarDeclaration]
+            ) [VarDeclarationsList]
+          ) [VarDeclarationList]
+        ) [Declarations]
+        ClassDeclarationList(
+          ClassDeclList(
+            ClassName(
+             Klasa
+            ) [ClassName]
+            NoExtend(
+            ) [NoExtend]
+            StaticVarDeclartions(
+              NoStaticVarDeclList(
+              ) [NoStaticVarDeclList]
+              StaticVarDecl(
+                Static(
+                ) [Static]
+                VarDeclarationsList(
+                  FirstVarDeclaration(
+                    VarType(
+                      BasicType(
+                       int
+                      ) [BasicType]
+                    ) [VarType]
+                    VarDeclaration(
+                     k
+                    ) [VarDeclaration]
+                  ) [FirstVarDeclaration]
+                ) [VarDeclarationsList]
+              ) [StaticVarDecl]
+            ) [StaticVarDeclartions]
+            NoStaticInitializerList(
+            ) [NoStaticInitializerList]
+            ClassVarDeclarations(
+              NoClassVarDeclList(
+              ) [NoClassVarDeclList]
+              VarDeclarationsList(
+                FirstVarDeclaration(
+                  VarType(
+                    BasicType(
+                     int
+                    ) [BasicType]
+                  ) [VarType]
+                  VarDeclaration(
+                   kk
+                  ) [VarDeclaration]
+                ) [FirstVarDeclaration]
+              ) [VarDeclarationsList]
+            ) [ClassVarDeclarations]
+            ClassMethodDeclarations(
+              MethodDeclarationsList(
+                NoMethodDeclList(
+                ) [NoMethodDeclList]
+                MethodDecl(
+                  MethodType(
+                    BasicType(
+                     int
+                    ) [BasicType]
+                   funkcijaKlase
+                  ) [MethodType]
+                  NoFormPars(
+                  ) [NoFormPars]
+                  NoClassVarDeclList(
+                  ) [NoClassVarDeclList]
+                  NoStatementList(
+                  ) [NoStatementList]
+                ) [MethodDecl]
+              ) [MethodDeclarationsList]
+            ) [ClassMethodDeclarations]
+          ) [ClassDeclList]
+        ) [ClassDeclarationList]
+      ) [Declarations]
+      ClassDeclarationList(
+        ClassDeclList(
+          ClassName(
+           DeteKlasa
+          ) [ClassName]
+          ExtendType(
+            NamespaceType(
+             N1
+             Klasa
+            ) [NamespaceType]
+          ) [ExtendType]
+          NoStaticVarDeclList(
+          ) [NoStaticVarDeclList]
+          NoStaticInitializerList(
+          ) [NoStaticInitializerList]
+          NoClassVarDeclList(
+          ) [NoClassVarDeclList]
+          NoClassMethodDeclList(
+          ) [NoClassMethodDeclList]
+        ) [ClassDeclList]
+      ) [ClassDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  MethodDeclarationsList(
+    MethodDeclarationsList(
+      NoMethodDeclList(
+      ) [NoMethodDeclList]
+      MethodDecl(
+        MethodType(
+          BasicType(
+           int
+          ) [BasicType]
+         fja
+        ) [MethodType]
+        FirstFormPar(
+          FormParameter(
+            BasicType(
+             int
+            ) [BasicType]
+           y
+          ) [FormParameter]
+        ) [FirstFormPar]
+        ClassVarDeclarations(
+          NoClassVarDeclList(
+          ) [NoClassVarDeclList]
+          VarDeclarationsList(
+            FirstVarDeclaration(
+              VarType(
+                BasicType(
+                 int
+                ) [BasicType]
+              ) [VarType]
+              VarDeclaration(
+               x
+              ) [VarDeclaration]
+            ) [FirstVarDeclaration]
+          ) [VarDeclarationsList]
+        ) [ClassVarDeclarations]
+        Statements(
+          Statements(
+            NoStatementList(
+            ) [NoStatementList]
+            MatchedStmt(
+              StatementDesignatorStatement(
+                DesignatorStatementDesignator(
+                  DesignatorNamespaceName(
+                   N1
+                   x
+                  ) [DesignatorNamespaceName]
+                  Assignop(
+                  ) [Assignop]
+                  ExprFirstTerm(
+                    TermFactor(
+                      FactorConst(
+                        NumConst(
+                         5
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [TermFactor]
+                  ) [ExprFirstTerm]
+                ) [DesignatorStatementDesignator]
+              ) [StatementDesignatorStatement]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            StatementDesignatorStatement(
+              DesignatorStatementDesignator(
+                DesignatorBasicName(
+                 x
+                ) [DesignatorBasicName]
+                Assignop(
+                ) [Assignop]
+                ExprFirstTerm(
+                  TermFactor(
+                    FactorConst(
+                      NumConst(
+                       3
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermFactor]
+                ) [ExprFirstTerm]
+              ) [DesignatorStatementDesignator]
+            ) [StatementDesignatorStatement]
+          ) [MatchedStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarationsList]
+    MethodDecl(
+      VoidMethodType(
+       main
+      ) [VoidMethodType]
+      NoFormPars(
+      ) [NoFormPars]
+      ClassVarDeclarations(
+        ClassVarDeclarations(
+          NoClassVarDeclList(
+          ) [NoClassVarDeclList]
+          VarDeclarationsList(
+            FirstVarDeclaration(
+              VarType(
+                BasicType(
+                 int
+                ) [BasicType]
+              ) [VarType]
+              VarDeclaration(
+               x
+              ) [VarDeclaration]
+            ) [FirstVarDeclaration]
+          ) [VarDeclarationsList]
+        ) [ClassVarDeclarations]
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              BasicType(
+               Klasa
+              ) [BasicType]
+            ) [VarType]
+            VarDeclaration(
+             objekatKlase
+            ) [VarDeclaration]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [ClassVarDeclarations]
+      Statements(
+        NoStatementList(
+        ) [NoStatementList]
+        MatchedStmt(
+          StatementDesignatorStatement(
+            DesignatorStatementNoActPars(
+              DesignatorField(
+                DesignatorBasicName(
+                 objekatKlase
+                ) [DesignatorBasicName]
+               funkcijaKlase
+              ) [DesignatorField]
+            ) [DesignatorStatementNoActPars]
+          ) [StatementDesignatorStatement]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarationsList]
+) [Program]

@@ -1,0 +1,63 @@
+INFO  01:42:33,973 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic2.mj
+INFO  01:42:34,017 - #2 program
+INFO  01:42:34,018 - #46 Test
+INFO  01:42:34,018 - #9 const
+INFO  01:42:34,019 - #46 int
+INFO  01:42:34,020 - #46 x
+INFO  01:42:34,021 - #20 =
+INFO  01:42:34,021 - #45 23
+INFO  01:42:34,021 - #21 ;
+INFO  01:42:34,021 - #46 int
+INFO  01:42:34,021 - #46 b
+INFO  01:42:34,022 - #42 [
+INFO  01:42:34,022 - #43 ]
+INFO  01:42:34,022 - #21 ;
+INFO  01:42:34,022 - #25 {
+INFO  01:42:34,023 - #26 }
+INFO  01:42:34,025 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declaration(
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              ConstNumDeclaration(
+               x
+               23
+              ) [ConstNumDeclaration]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declaration]
+      VarDeclarationList(
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            VarDeclarationArr(
+             b
+            ) [VarDeclarationArr]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [VarDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  01:42:34,034 - Print calls = 0
+INFO  01:42:34,035 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  01:42:34,035 - Parsiranje uspesno zavrseno!

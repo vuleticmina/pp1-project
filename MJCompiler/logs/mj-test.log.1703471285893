@@ -1,0 +1,14 @@
+INFO  03:24:30,552 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  03:24:30,562 - #2 program
+INFO  03:24:30,563 - #46 MJProgram
+INFO  03:24:30,563 - #17 namespace
+INFO  03:24:30,563 - #46 ns
+INFO  03:24:30,563 - #25 {
+INFO  03:24:30,563 - #25 {
+INFO  03:24:30,563 - #26 }
+INFO  03:24:30,564 - #26 }
+INFO  03:24:30,564 - #9 const
+INFO  03:24:30,564 - #46 int
+ERROR 03:24:30,565 - 
+Sintaksna greska na liniji 3
+ERROR 03:24:30,565 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3

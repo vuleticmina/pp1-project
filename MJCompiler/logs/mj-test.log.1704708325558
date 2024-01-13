@@ -1,0 +1,28 @@
+INFO  11:03:57,683 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  11:03:57,743 - #2 program
+INFO  11:03:57,743 - #46 Test
+INFO  11:03:57,743 - #17 namespace
+INFO  11:03:57,743 - #46 NS
+INFO  11:03:57,743 - #25 {
+INFO  11:03:57,743 - #25 {
+INFO  11:03:57,744 - #26 }
+INFO  11:03:57,744 - #26 }
+INFO  11:03:57,744 - #25 {
+INFO  11:03:57,745 - #26 }
+INFO  11:03:57,746 - Program(
+ Test
+  ExistsNamespace(
+   NS
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+  ) [ExistsNamespace]
+  NoDeclarationList(
+  ) [NoDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  11:03:57,753 - Print calls = 0
+INFO  11:03:57,753 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  11:03:57,753 - Parsiranje uspesno zavrseno!

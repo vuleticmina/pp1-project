@@ -1,0 +1,18 @@
+INFO  02:44:44,815 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic3.mj
+INFO  02:44:44,879 - #2 program
+INFO  02:44:44,879 - #46 Test
+INFO  02:44:44,879 - #9 const
+INFO  02:44:44,880 - #46 int
+INFO  02:44:44,880 - #46 x
+INFO  02:44:44,880 - #20 =
+INFO  02:44:44,880 - #45 23
+INFO  02:44:44,881 - #21 ;
+INFO  02:44:44,881 - #46 int
+INFO  02:44:44,881 - #46 b
+INFO  02:44:44,881 - #42 [
+INFO  02:44:44,881 - #43 ]
+INFO  02:44:44,882 - #21 ;
+INFO  02:44:44,882 - #17 namespace
+ERROR 02:44:44,882 - 
+Sintaksna greska na liniji 4
+ERROR 02:44:44,882 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

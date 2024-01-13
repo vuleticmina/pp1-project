@@ -1,0 +1,7 @@
+INFO  01:46:00,280 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  01:46:00,285 - #2 program
+INFO  01:46:00,285 - #46 MJProgram
+INFO  01:46:00,285 - #25 {
+ERROR 01:46:00,285 - 
+Sintaksna greska na liniji 2
+ERROR 01:46:00,285 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

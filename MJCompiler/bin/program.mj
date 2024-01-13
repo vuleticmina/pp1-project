@@ -1,0 +1,63 @@
+program Test 
+namespace NS { const int x = ; 
+				const char c = 'f'; const bool b = true; const int x = , y = 3; 
+				int g; char d[]; char k, g, h[]; 
+				class Klasa extend Klasa2 {
+				static int::int g; static char d[]; static char k, g, h[]; 
+				static {break; continue;} 
+				{void fja(int x, int g[])int h; int k[];
+				{break; continue;}
+				}
+				} 
+			{void fja(int x, int g[])int h; int k[];
+				{break; continue;}}}
+const int x = 5; const char c = 'f'; const bool b = true; const int x = 5, y = 3; 
+				int g; char d[]; char k, g, h[]; 
+				class Klasa extends Klasa2 {
+				static int::int g; static char d[]; static char k, g, h[]; 
+				static {
+					return 5 + 'c' * true / new int[5] * (2 + 7) % x::x.x % x::x[5 + 9];
+					read(x::x.x);
+					print(-2*5+6);
+					print(-2*5+6, 6);
+					[x,,,y,z,*x]=x;
+					for(
+					[x,,,y,z,*x]=x; 5 < 6 ;x++) continue;
+					x.x = ;
+
+					
+					if (5 == 5 && 6 == true || 4 != 'c') break;
+if (5 > 6) break; else break;
+if (5 > 6) {
+    if (5 > ) {
+        break;
+    } else {
+        break;
+    }
+} else {
+    break;
+}
+if (5 > 6) {
+    if (5 > 6) {
+        break;
+    }
+} else {
+    break;
+}
+if (5 > 6) {
+    break;
+} else if (5 > 6) {
+    break;
+} else {
+    break;
+}
+					
+				} 
+				{void fja(int x, int g[])int h; int k[];
+				{break; continue;}
+				}
+				} 
+{void fja(int x, int g[])int h; int k[];
+				{break; continue;}
+int fja1(int x, int g[])int h; int k[];
+				{break; continue;}}

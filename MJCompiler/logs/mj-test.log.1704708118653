@@ -1,0 +1,17 @@
+INFO  11:00:18,333 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  11:00:18,367 - #2 program
+INFO  11:00:18,368 - #46 Test
+INFO  11:00:18,368 - #25 {
+INFO  11:00:18,368 - #26 }
+INFO  11:00:18,369 - Program(
+ Test
+  NoNamespace(
+  ) [NoNamespace]
+  NoDeclarationList(
+  ) [NoDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  11:00:18,375 - Print calls = 0
+INFO  11:00:18,376 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  11:00:18,376 - Parsiranje uspesno zavrseno!

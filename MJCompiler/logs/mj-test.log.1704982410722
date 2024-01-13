@@ -1,0 +1,42 @@
+INFO  22:27:39,882 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic.mj
+INFO  22:27:39,911 - #2 program
+INFO  22:27:39,911 - #46 Test
+INFO  22:27:39,911 - #9 const
+INFO  22:27:39,912 - #46 int
+INFO  22:27:39,912 - #46 x
+INFO  22:27:39,912 - #20 =
+INFO  22:27:39,912 - #45 2
+INFO  22:27:39,912 - #21 ;
+INFO  22:27:39,913 - #25 {
+INFO  22:27:39,913 - #26 }
+INFO  22:27:39,914 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declaration(
+      ConstDeclarationList(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            ConstNumDeclaration(
+             x
+             2
+            ) [ConstNumDeclaration]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclarationList]
+    ) [Declaration]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  22:27:39,921 - Print calls = 0
+INFO  22:27:39,922 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  22:27:39,922 - Parsiranje uspesno zavrseno!

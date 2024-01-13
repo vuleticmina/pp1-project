@@ -1,0 +1,99 @@
+INFO  01:43:52,155 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic2.mj
+INFO  01:43:52,190 - #2 program
+INFO  01:43:52,190 - #46 Test
+INFO  01:43:52,190 - #9 const
+INFO  01:43:52,191 - #46 int
+INFO  01:43:52,191 - #46 x
+INFO  01:43:52,192 - #20 =
+INFO  01:43:52,192 - #45 23
+INFO  01:43:52,192 - #21 ;
+INFO  01:43:52,192 - #46 int
+INFO  01:43:52,192 - #46 b
+INFO  01:43:52,193 - #42 [
+INFO  01:43:52,193 - #43 ]
+INFO  01:43:52,193 - #21 ;
+INFO  01:43:52,193 - #25 {
+INFO  01:43:52,193 - #5 void
+INFO  01:43:52,194 - #46 fja
+INFO  01:43:52,194 - #23 (
+INFO  01:43:52,194 - #24 )
+INFO  01:43:52,194 - #46 int
+INFO  01:43:52,195 - #46 x
+INFO  01:43:52,195 - #21 ;
+INFO  01:43:52,195 - #25 {
+INFO  01:43:52,195 - #26 }
+INFO  01:43:52,195 - #26 }
+INFO  01:43:52,198 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declaration(
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              ConstNumDeclaration(
+               x
+               23
+              ) [ConstNumDeclaration]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declaration]
+      VarDeclarationList(
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            VarDeclarationArr(
+             b
+            ) [VarDeclarationArr]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [VarDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  MethodDeclarationsList(
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+    MethodDecl(
+      VoidMethodType(
+       fja
+      ) [VoidMethodType]
+      NoFormPars(
+      ) [NoFormPars]
+      ClassVarDeclarations(
+        NoClassVarDeclList(
+        ) [NoClassVarDeclList]
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            VarDeclaration(
+             x
+            ) [VarDeclaration]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [ClassVarDeclarations]
+      NoStatementList(
+      ) [NoStatementList]
+    ) [MethodDecl]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  01:43:52,207 - Print calls = 0
+INFO  01:43:52,207 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  01:43:52,208 - Parsiranje uspesno zavrseno!

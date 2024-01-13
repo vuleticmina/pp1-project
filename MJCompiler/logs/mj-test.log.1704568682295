@@ -1,0 +1,9 @@
+INFO  20:13:48,851 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  20:13:48,902 - #2 program
+INFO  20:13:48,902 - #46 TestProgram
+INFO  20:13:48,902 - #9 const
+INFO  20:13:48,903 - #46 intConst
+INFO  20:13:48,903 - #20 =
+ERROR 20:13:48,903 - 
+Sintaksna greska na liniji 2
+ERROR 20:13:48,903 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

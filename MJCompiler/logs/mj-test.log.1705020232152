@@ -1,0 +1,70 @@
+INFO  01:43:12,829 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic2.mj
+INFO  01:43:12,871 - #2 program
+INFO  01:43:12,871 - #46 Test
+INFO  01:43:12,871 - #9 const
+INFO  01:43:12,872 - #46 int
+INFO  01:43:12,872 - #46 x
+INFO  01:43:12,872 - #20 =
+INFO  01:43:12,873 - #45 23
+INFO  01:43:12,873 - #21 ;
+INFO  01:43:12,873 - #46 int
+INFO  01:43:12,873 - #46 b
+INFO  01:43:12,874 - #42 [
+INFO  01:43:12,874 - #43 ]
+INFO  01:43:12,874 - #22 ,
+INFO  01:43:12,874 - #46 x
+INFO  01:43:12,874 - #21 ;
+INFO  01:43:12,874 - #25 {
+INFO  01:43:12,875 - #26 }
+INFO  01:43:12,876 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declaration(
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              ConstNumDeclaration(
+               x
+               23
+              ) [ConstNumDeclaration]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declaration]
+      VarDeclarationList(
+        VarDeclarationsList(
+          VarDeclartions(
+            FirstVarDeclaration(
+              VarType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarType]
+              VarDeclarationArr(
+               b
+              ) [VarDeclarationArr]
+            ) [FirstVarDeclaration]
+            VarDeclaration(
+             x
+            ) [VarDeclaration]
+          ) [VarDeclartions]
+        ) [VarDeclarationsList]
+      ) [VarDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+ERROR 01:43:12,884 - Dupla deklaracija imena x u trenutnom opsegu!
+INFO  01:43:12,884 - Print calls = 0
+ERROR 01:43:12,886 - Parsiranje NIJE uspesno zavrseno!

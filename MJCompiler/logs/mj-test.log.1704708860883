@@ -1,0 +1,217 @@
+INFO  11:13:25,142 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  11:13:25,183 - #2 program
+INFO  11:13:25,183 - #46 Test
+INFO  11:13:25,183 - #17 namespace
+INFO  11:13:25,183 - #46 NS
+INFO  11:13:25,183 - #25 {
+INFO  11:13:25,183 - #9 const
+INFO  11:13:25,184 - #46 int
+INFO  11:13:25,184 - #46 x
+INFO  11:13:25,184 - #20 =
+INFO  11:13:25,184 - #45 5
+INFO  11:13:25,184 - #21 ;
+INFO  11:13:25,184 - #9 const
+INFO  11:13:25,185 - #46 char
+INFO  11:13:25,185 - #46 c
+INFO  11:13:25,185 - #20 =
+INFO  11:13:25,185 - #47 f
+INFO  11:13:25,185 - #21 ;
+INFO  11:13:25,185 - #9 const
+INFO  11:13:25,186 - #46 bool
+INFO  11:13:25,186 - #46 b
+INFO  11:13:25,186 - #20 =
+INFO  11:13:25,186 - #48 true
+INFO  11:13:25,186 - #21 ;
+INFO  11:13:25,186 - #9 const
+INFO  11:13:25,186 - #46 int
+INFO  11:13:25,186 - #46 x
+INFO  11:13:25,186 - #20 =
+INFO  11:13:25,186 - #45 5
+INFO  11:13:25,186 - #22 ,
+INFO  11:13:25,186 - #46 y
+INFO  11:13:25,186 - #20 =
+INFO  11:13:25,186 - #45 3
+INFO  11:13:25,186 - #21 ;
+INFO  11:13:25,186 - #46 int
+INFO  11:13:25,187 - #46 g
+INFO  11:13:25,187 - #21 ;
+INFO  11:13:25,187 - #46 char
+INFO  11:13:25,187 - #46 d
+INFO  11:13:25,187 - #42 [
+INFO  11:13:25,187 - #43 ]
+INFO  11:13:25,187 - #21 ;
+INFO  11:13:25,187 - #46 char
+INFO  11:13:25,187 - #46 k
+INFO  11:13:25,187 - #22 ,
+INFO  11:13:25,187 - #46 g
+INFO  11:13:25,188 - #22 ,
+INFO  11:13:25,188 - #46 h
+INFO  11:13:25,188 - #42 [
+INFO  11:13:25,188 - #43 ]
+INFO  11:13:25,188 - #21 ;
+INFO  11:13:25,188 - #7 class
+INFO  11:13:25,188 - #46 Klasa
+INFO  11:13:25,188 - #25 {
+INFO  11:13:25,189 - #26 }
+INFO  11:13:25,190 - #25 {
+INFO  11:13:25,190 - #26 }
+INFO  11:13:25,190 - #26 }
+INFO  11:13:25,190 - #25 {
+INFO  11:13:25,191 - #26 }
+INFO  11:13:25,192 - Program(
+ Test
+  ExistsNamespace(
+   NS
+    FulDeclarationList(
+      Declarations(
+        Declarations(
+          Declarations(
+            Declarations(
+              Declarations(
+                Declarations(
+                  Declarations(
+                    Declaration(
+                      ConstDeclarationList(
+                        ConstDeclarationsList(
+                          FirstConstDeclaration(
+                            ShortType(
+                             int
+                            ) [ShortType]
+                            ConstDecl(
+                             x
+                              NumConst(
+                               5
+                              ) [NumConst]
+                            ) [ConstDecl]
+                          ) [FirstConstDeclaration]
+                        ) [ConstDeclarationsList]
+                      ) [ConstDeclarationList]
+                    ) [Declaration]
+                    ConstDeclarationList(
+                      ConstDeclarationsList(
+                        FirstConstDeclaration(
+                          ShortType(
+                           char
+                          ) [ShortType]
+                          ConstDecl(
+                           c
+                            CharConst(
+                             f
+                            ) [CharConst]
+                          ) [ConstDecl]
+                        ) [FirstConstDeclaration]
+                      ) [ConstDeclarationsList]
+                    ) [ConstDeclarationList]
+                  ) [Declarations]
+                  ConstDeclarationList(
+                    ConstDeclarationsList(
+                      FirstConstDeclaration(
+                        ShortType(
+                         bool
+                        ) [ShortType]
+                        ConstDecl(
+                         b
+                          BoolConst(
+                           true
+                          ) [BoolConst]
+                        ) [ConstDecl]
+                      ) [FirstConstDeclaration]
+                    ) [ConstDeclarationsList]
+                  ) [ConstDeclarationList]
+                ) [Declarations]
+                ConstDeclarationList(
+                  ConstDeclarationsList(
+                    ConstDeclarations(
+                      FirstConstDeclaration(
+                        ShortType(
+                         int
+                        ) [ShortType]
+                        ConstDecl(
+                         x
+                          NumConst(
+                           5
+                          ) [NumConst]
+                        ) [ConstDecl]
+                      ) [FirstConstDeclaration]
+                      ConstDecl(
+                       y
+                        NumConst(
+                         3
+                        ) [NumConst]
+                      ) [ConstDecl]
+                    ) [ConstDeclarations]
+                  ) [ConstDeclarationsList]
+                ) [ConstDeclarationList]
+              ) [Declarations]
+              VarDeclarationList(
+                VarDeclarationsList(
+                  FirstVarDeclaration(
+                    ShortType(
+                     int
+                    ) [ShortType]
+                    VarDeclaration(
+                     g
+                    ) [VarDeclaration]
+                  ) [FirstVarDeclaration]
+                ) [VarDeclarationsList]
+              ) [VarDeclarationList]
+            ) [Declarations]
+            VarDeclarationList(
+              VarDeclarationsList(
+                FirstVarDeclaration(
+                  ShortType(
+                   char
+                  ) [ShortType]
+                  VarDeclarationArr(
+                   d
+                  ) [VarDeclarationArr]
+                ) [FirstVarDeclaration]
+              ) [VarDeclarationsList]
+            ) [VarDeclarationList]
+          ) [Declarations]
+          VarDeclarationList(
+            VarDeclarationsList(
+              VarDeclartions(
+                VarDeclartions(
+                  FirstVarDeclaration(
+                    ShortType(
+                     char
+                    ) [ShortType]
+                    VarDeclaration(
+                     k
+                    ) [VarDeclaration]
+                  ) [FirstVarDeclaration]
+                  VarDeclaration(
+                   g
+                  ) [VarDeclaration]
+                ) [VarDeclartions]
+                VarDeclarationArr(
+                 h
+                ) [VarDeclarationArr]
+              ) [VarDeclartions]
+            ) [VarDeclarationsList]
+          ) [VarDeclarationList]
+        ) [Declarations]
+        ClassDeclarationList(
+          ClassDeclListNoMethods(
+           Klasa
+            NoExtend(
+            ) [NoExtend]
+            NoStaticVarDeclList(
+            ) [NoStaticVarDeclList]
+            NoStaticInitializer(
+            ) [NoStaticInitializer]
+            NoClassVarDeclList(
+            ) [NoClassVarDeclList]
+          ) [ClassDeclListNoMethods]
+        ) [ClassDeclarationList]
+      ) [Declarations]
+    ) [FulDeclarationList]
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+  ) [ExistsNamespace]
+  NoDeclarationList(
+  ) [NoDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]

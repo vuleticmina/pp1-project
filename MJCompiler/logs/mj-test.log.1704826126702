@@ -1,0 +1,31 @@
+INFO  19:43:46,305 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/test301.mj
+INFO  19:43:46,334 - #2 program
+INFO  19:43:46,334 - #46 test301
+INFO  19:43:46,334 - #17 namespace
+INFO  19:43:46,335 - #46 Konstante
+INFO  19:43:46,335 - #25 {
+INFO  19:43:46,335 - #9 const
+INFO  19:43:46,335 - #46 int
+INFO  19:43:46,335 - #46 nula
+INFO  19:43:46,335 - #20 =
+INFO  19:43:46,335 - #45 0
+INFO  19:43:46,335 - #21 ;
+INFO  19:43:46,335 - #9 const
+INFO  19:43:46,335 - #46 int
+INFO  19:43:46,336 - #46 jedan
+INFO  19:43:46,336 - #20 =
+INFO  19:43:46,336 - #45 1
+INFO  19:43:46,336 - #21 ;
+INFO  19:43:46,336 - #9 const
+INFO  19:43:46,336 - #46 int
+INFO  19:43:46,336 - #46 pet
+INFO  19:43:46,336 - #20 =
+INFO  19:43:46,336 - #45 5
+INFO  19:43:46,336 - #21 ;
+INFO  19:43:46,336 - #25 {
+INFO  19:43:46,336 - #26 }
+INFO  19:43:46,337 - #26 }
+INFO  19:43:46,337 - #17 namespace
+ERROR 19:43:46,337 - 
+Sintaksna greska na liniji 13
+ERROR 19:43:46,337 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

@@ -1,0 +1,8 @@
+INFO  01:06:38,899 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  01:06:38,906 - #2 program
+INFO  01:06:38,906 - #46 MJProgram
+INFO  01:06:38,906 - #25 {
+INFO  01:06:38,906 - #26 }
+INFO  01:06:38,908 - Program(
+ MJProgram
+) [Program]

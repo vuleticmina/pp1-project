@@ -1,0 +1,29 @@
+program Test
+namespace N1 {
+	int x;
+	const int g = 5;
+	class Klasa {static int b; int k; int kk; {int funkcijaKlase(){}}}
+	class DeteKlasa extends Klasa{}
+{}
+}
+const int x = 23;
+int b[];
+int var;
+class Klasa {static int k; int kk; {int funkcijaKlase(){}}}
+class DeteKlasa extends N1::Klasa{}
+{
+	int fja(int y) int x; {
+		N1::x = 5;
+		x = 3;
+	}
+	void main() int x; Klasa objekatKlase; int arr[];{
+		
+		objekatKlase.funkcijaKlase();
+		fja();
+		objekatKlase.kk--;
+		var++;
+		x = new Klasaa();
+	}
+	
+	
+}

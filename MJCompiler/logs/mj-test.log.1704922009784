@@ -1,0 +1,41 @@
+INFO  22:17:33,858 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic.mj
+INFO  22:17:33,939 - #2 program
+INFO  22:17:33,939 - #46 Test
+INFO  22:17:33,939 - #9 const
+INFO  22:17:33,942 - #46 int
+INFO  22:17:33,943 - #46 x
+INFO  22:17:33,943 - #20 =
+INFO  22:17:33,944 - #45 2
+INFO  22:17:33,944 - #21 ;
+INFO  22:17:33,944 - #25 {
+INFO  22:17:33,945 - #26 }
+INFO  22:17:33,946 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declaration(
+      ConstDeclarationList(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            Type(
+             int
+            ) [Type]
+            ConstNumDeclaration(
+             x
+             2
+            ) [ConstNumDeclaration]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclarationList]
+    ) [Declaration]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+ERROR 22:17:33,966 - Tip  rs.etf.pp1.symboltable.concepts.Struct@2e817b38 ne moze biti inicijalizovan tipom rs.etf.pp1.symboltable.concepts.Struct@c4437c4! 
+INFO  22:17:33,966 - Print calls = 0
+INFO  22:17:33,970 - Generating bytecode file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/testprogram.obj
+INFO  22:17:33,970 - Parsiranje uspesno zavrseno!

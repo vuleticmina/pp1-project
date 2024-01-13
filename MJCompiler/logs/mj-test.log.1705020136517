@@ -1,0 +1,61 @@
+INFO  01:41:54,034 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic2.mj
+INFO  01:41:54,065 - #2 program
+INFO  01:41:54,065 - #46 Test
+INFO  01:41:54,065 - #9 const
+INFO  01:41:54,066 - #46 int
+INFO  01:41:54,066 - #46 x
+INFO  01:41:54,066 - #20 =
+INFO  01:41:54,067 - #47 a
+INFO  01:41:54,067 - #21 ;
+INFO  01:41:54,067 - #46 int
+INFO  01:41:54,067 - #46 b
+INFO  01:41:54,068 - #21 ;
+INFO  01:41:54,068 - #25 {
+INFO  01:41:54,068 - #26 }
+INFO  01:41:54,069 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declaration(
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              ConstCharDeclaration(
+               x
+               a
+              ) [ConstCharDeclaration]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declaration]
+      VarDeclarationList(
+        VarDeclarationsList(
+          FirstVarDeclaration(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            VarDeclaration(
+             b
+            ) [VarDeclaration]
+          ) [FirstVarDeclaration]
+        ) [VarDeclarationsList]
+      ) [VarDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+ERROR 01:41:54,076 - Nepoklapanje tipova prilikom deklarisanja konstante: x
+INFO  01:41:54,076 - Print calls = 0
+ERROR 01:41:54,077 - Parsiranje NIJE uspesno zavrseno!

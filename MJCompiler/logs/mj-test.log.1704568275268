@@ -1,0 +1,112 @@
+INFO  20:08:56,567 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  20:08:56,614 - #2 program
+INFO  20:08:56,614 - #46 MJProgram
+INFO  20:08:56,614 - #17 namespace
+INFO  20:08:56,614 - #46 ns
+INFO  20:08:56,615 - #25 {
+INFO  20:08:56,615 - #25 {
+INFO  20:08:56,615 - #26 }
+INFO  20:08:56,615 - #26 }
+INFO  20:08:56,615 - #9 const
+INFO  20:08:56,616 - #46 int
+INFO  20:08:56,616 - #46 x
+INFO  20:08:56,616 - #20 =
+INFO  20:08:56,616 - #45 5
+INFO  20:08:56,616 - #22 ,
+INFO  20:08:56,617 - #46 y
+INFO  20:08:56,617 - #20 =
+INFO  20:08:56,617 - #45 8
+INFO  20:08:56,617 - #21 ;
+INFO  20:08:56,617 - #9 const
+INFO  20:08:56,617 - #46 char
+INFO  20:08:56,617 - #46 c
+INFO  20:08:56,617 - #20 =
+INFO  20:08:56,617 - #47 f
+INFO  20:08:56,617 - #21 ;
+INFO  20:08:56,618 - #46 int
+INFO  20:08:56,618 - #46 k
+INFO  20:08:56,618 - #22 ,
+INFO  20:08:56,618 - #46 l
+INFO  20:08:56,618 - #42 [
+INFO  20:08:56,618 - #43 ]
+INFO  20:08:56,618 - #21 ;
+INFO  20:08:56,618 - #25 {
+INFO  20:08:56,618 - #26 }
+INFO  20:08:56,620 - Program(
+ MJProgram
+  ExistsNamespace(
+   ns
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+  ) [ExistsNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declarations(
+        Declaration(
+          ConstDeclarationList(
+            ConstDeclarationsList(
+              ConstDeclarations(
+                FirstConstDeclaration(
+                  ShortType(
+                   int
+                  ) [ShortType]
+                  ConstDecl(
+                   x
+                    NumConst(
+                     5
+                    ) [NumConst]
+                  ) [ConstDecl]
+                ) [FirstConstDeclaration]
+                ConstDecl(
+                 y
+                  NumConst(
+                   8
+                  ) [NumConst]
+                ) [ConstDecl]
+              ) [ConstDeclarations]
+            ) [ConstDeclarationsList]
+          ) [ConstDeclarationList]
+        ) [Declaration]
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ShortType(
+               char
+              ) [ShortType]
+              ConstDecl(
+               c
+                CharConst(
+                 f
+                ) [CharConst]
+              ) [ConstDecl]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declarations]
+      VarDeclarationList(
+        VarDeclarationsList(
+          VarDeclartions(
+            FirstVarDeclaration(
+              ShortType(
+               int
+              ) [ShortType]
+              VarDeclaration(
+               k
+              ) [VarDeclaration]
+            ) [FirstVarDeclaration]
+            VarDeclarationArr(
+             l
+            ) [VarDeclarationArr]
+          ) [VarDeclartions]
+        ) [VarDeclarationsList]
+      ) [VarDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  20:08:56,627 - Print calls = 0
+INFO  20:08:56,627 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  20:08:56,631 - Parsiranje uspesno zavrseno!

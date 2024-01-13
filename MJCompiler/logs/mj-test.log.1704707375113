@@ -1,0 +1,63 @@
+INFO  20:19:58,883 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  20:19:58,910 - #2 program
+INFO  20:19:58,910 - #46 TestProgram
+INFO  20:19:58,910 - #9 const
+INFO  20:19:58,910 - #46 int
+INFO  20:19:58,910 - #46 intConst
+INFO  20:19:58,910 - #20 =
+INFO  20:19:58,910 - #45 42
+INFO  20:19:58,910 - #21 ;
+INFO  20:19:58,911 - #9 const
+INFO  20:19:58,911 - #46 char
+INFO  20:19:58,911 - #46 boolVar
+INFO  20:19:58,911 - #20 =
+INFO  20:19:58,911 - #48 true
+INFO  20:19:58,911 - #21 ;
+INFO  20:19:58,911 - #25 {
+INFO  20:19:58,912 - #26 }
+INFO  20:19:58,913 - Program(
+ TestProgram
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declarations(
+      Declaration(
+        ConstDeclarationList(
+          ConstDeclarationsList(
+            FirstConstDeclaration(
+              ShortType(
+               int
+              ) [ShortType]
+              ConstDecl(
+               intConst
+                NumConst(
+                 42
+                ) [NumConst]
+              ) [ConstDecl]
+            ) [FirstConstDeclaration]
+          ) [ConstDeclarationsList]
+        ) [ConstDeclarationList]
+      ) [Declaration]
+      ConstDeclarationList(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            ShortType(
+             char
+            ) [ShortType]
+            ConstDecl(
+             boolVar
+              BoolConst(
+               true
+              ) [BoolConst]
+            ) [ConstDecl]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclarationList]
+    ) [Declarations]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]
+INFO  20:19:58,921 - Print calls = 0
+INFO  20:19:58,922 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  20:19:58,925 - Parsiranje uspesno zavrseno!

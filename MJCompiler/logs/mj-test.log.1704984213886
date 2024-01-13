@@ -1,0 +1,39 @@
+INFO  15:41:49,970 - Compiling source file: /Users/minavuletic/git/ProjekatPP1/MJCompiler/test/testSemantic.mj
+INFO  15:41:50,040 - #2 program
+INFO  15:41:50,041 - #46 Test
+INFO  15:41:50,041 - #9 const
+INFO  15:41:50,041 - #46 int
+INFO  15:41:50,042 - #46 x
+INFO  15:41:50,042 - #20 =
+INFO  15:41:50,043 - #45 2
+INFO  15:41:50,043 - #21 ;
+INFO  15:41:50,043 - #25 {
+INFO  15:41:50,043 - #26 }
+INFO  15:41:50,045 - Program(
+  ProgName(
+   Test
+  ) [ProgName]
+  NoNamespace(
+  ) [NoNamespace]
+  FulDeclarationList(
+    Declaration(
+      ConstDeclarationList(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            ConstNumDeclaration(
+             x
+             2
+            ) [ConstNumDeclaration]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclarationList]
+    ) [Declaration]
+  ) [FulDeclarationList]
+  NoMethodDeclList(
+  ) [NoMethodDeclList]
+) [Program]

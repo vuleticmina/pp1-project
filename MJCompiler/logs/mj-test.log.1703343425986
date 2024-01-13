@@ -1,0 +1,44 @@
+INFO  15:56:50,066 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  15:56:50,107 - #2 program
+INFO  15:56:50,107 - #46 MJProgram
+INFO  15:56:50,107 - #46 int
+INFO  15:56:50,109 - #46 x
+INFO  15:56:50,110 - #21 ;
+INFO  15:56:50,110 - #46 boolean
+INFO  15:56:50,111 - #46 y
+INFO  15:56:50,111 - #21 ;
+INFO  15:56:50,111 - #46 char
+INFO  15:56:50,111 - #46 c
+INFO  15:56:50,111 - #21 ;
+INFO  15:56:50,112 - #25 {
+INFO  15:56:50,112 - #46 int
+INFO  15:56:50,113 - #46 k
+INFO  15:56:50,113 - #23 (
+INFO  15:56:50,114 - #24 )
+INFO  15:56:50,114 - #46 int
+INFO  15:56:50,115 - #46 c
+INFO  15:56:50,115 - #21 ;
+INFO  15:56:50,115 - #25 {
+INFO  15:56:50,115 - #46 c
+INFO  15:56:50,116 - #20 =
+INFO  15:56:50,117 - #45 1
+INFO  15:56:50,117 - #21 ;
+INFO  15:56:50,118 - #4 return
+INFO  15:56:50,119 - #46 c
+INFO  15:56:50,119 - #18 +
+INFO  15:56:50,119 - #45 2
+INFO  15:56:50,120 - #21 ;
+INFO  15:56:50,121 - #26 }
+INFO  15:56:50,121 - #46 int
+INFO  15:56:50,123 - #46 main
+INFO  15:56:50,123 - #23 (
+INFO  15:56:50,123 - #24 )
+INFO  15:56:50,123 - #25 {
+INFO  15:56:50,123 - #46 c
+INFO  15:56:50,123 - #46 h
+ERROR 15:56:50,124 - 
+Sintaksna greska na liniji 11
+ERROR 15:56:50,124 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11
+ERROR 15:56:50,139 - Greska na liniji 11 : ime c nije deklarisano! 
+INFO  15:56:50,140 - Print calls = 0
+ERROR 15:56:50,142 - Parsiranje NIJE uspesno zavrseno!

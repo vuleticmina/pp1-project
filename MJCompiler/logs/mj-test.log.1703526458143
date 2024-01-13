@@ -1,0 +1,51 @@
+INFO  03:28:05,896 - Compiling source file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/test/program.mj
+INFO  03:28:05,904 - #2 program
+INFO  03:28:05,904 - #46 MJProgram
+INFO  03:28:05,904 - #17 namespace
+INFO  03:28:05,904 - #46 ns
+INFO  03:28:05,904 - #25 {
+INFO  03:28:05,904 - #25 {
+INFO  03:28:05,905 - #26 }
+INFO  03:28:05,905 - #26 }
+INFO  03:28:05,905 - #9 const
+INFO  03:28:05,905 - #46 int
+INFO  03:28:05,905 - #46 x
+INFO  03:28:05,906 - #20 =
+INFO  03:28:05,906 - #45 5
+INFO  03:28:05,906 - #21 ;
+INFO  03:28:05,906 - #25 {
+INFO  03:28:05,906 - #26 }
+INFO  03:28:05,907 - Program(
+ MJProgram
+  ExistNamespace(
+   ns
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [ExistNamespace]
+  FulDeclarationList(
+    Declaration(
+      ConstDeclaration(
+        ConstDeclarationsList(
+          FirstConstDeclaration(
+            ShortType(
+             int
+            ) [ShortType]
+            ConstDecl(
+             x
+              NumConst(
+               5
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [FirstConstDeclaration]
+        ) [ConstDeclarationsList]
+      ) [ConstDeclaration]
+    ) [Declaration]
+  ) [FulDeclarationList]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  03:28:05,911 - Print calls = 0
+INFO  03:28:05,911 - Generating bytecode file: /Users/minavuletic/Downloads/Cetvrta godina/PP1/pp1lab.templateAST/workspace/MJCompiler/testprogram.obj
+INFO  03:28:05,914 - Parsiranje uspesno zavrseno!
